@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=holybasil&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Holybasil/Holybasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
